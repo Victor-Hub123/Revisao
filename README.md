@@ -1,6 +1,6 @@
 # Batalha Pokémon
 
-Este codigo traz um combate entre pikachu e charmander, onde para declarar um vencedor, algum deles precisa ficar sem vida.
+Este código traz um combate entre pikachu e charmander, onde para declarar um vencedor, algum deles precisa ficar sem vida.
 
 
 ## Regras da batalha
